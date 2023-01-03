@@ -30,6 +30,34 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-MyOne&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
+<h4 align="center">My Portfolio:</h4>
+
+##### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
+> Life coach website
+
+##### [Mike Snow](https://www.mikesnow.us/)
+> The Mik Snow's website with articles about traveling, art, cuisine, and politic
+
+##### [My One](http://www.myonewebdevelop.com/)
+> My personal promo website
+
+##### [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
+> The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets.
+
+##### [Songbird](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/songbird/dist/index.html)
+> the game Songbird where you should guess a bird by its sound.
+
+##### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
+ > Companion app for Eldritch Horror board game to mix cards.
+
+##### [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)
+> Board game puzzle 15 on JavaScript
+
+##### [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)
+> pet project
+
+
+</br>
 <h4 align="center">Statistic on GitHub:</h4>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elena-MyOne&theme=dark)](https://git.io/streak-stats)

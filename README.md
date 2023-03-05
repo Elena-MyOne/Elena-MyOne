@@ -33,28 +33,36 @@
 <h4 align="center">My Portfolio:</h4>
 
 ##### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
-> Life coach website
+Professional website made for wonderful professional, life coach Pamela Twigg. 
+Stack: **JavaScript, HTML, SASS(SCSS), PHP, Gulp**
 
 ##### [Mike Snow](https://www.mikesnow.us/)
-> The Mik Snow's website with articles about traveling, art, cuisine, and politic
+Professional website made for Mike Snow. It includes articles about traveling, art, cuisine, and politic. Stack: **HTML, SASS(SCSS), Bootstrap**
 
 ##### [My One](http://www.myonewebdevelop.com/)
-> My personal promo website
+My personal promo website. Stack: **JavaScript, HTML, SASS(SCSS), PHP, Gulp**
 
 ##### [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
-> The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets.
+The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets. Stack: **JavaScript, HTML, CSS, Webpack**
+
+##### [Amazing Trip](https://shipu4ka-rs-clone.netlify.app/)
+This application is a product of the collaboration of three developers: [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka) , [Alexandr Kabanau](https://github.com/AlexKabanau). A full description of the project is available in [README file](https://github.com/Elena-MyOne/rsclone/blob/develop/README.md)
+
+Stack: 
+* Front-end: **HTML, SCSS, JavaScript, TypeScript, Canvas, Three.js, Audio API, Webpack, Bootstrap, Nouislider**;
+* Backend: **Node.js, Express, Axios**
 
 ##### [Songbird](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/songbird/dist/index.html)
-> the game Songbird where you should guess a bird by its sound.
+The game Songbird where you should guess a bird by its sound.
 
 ##### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
- > Companion app for Eldritch Horror board game to mix cards.
+Companion app for Eldritch Horror board game to mix cards.
 
 ##### [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)
-> Board game puzzle 15 on JavaScript
+Board game puzzle 15 on JavaScript
 
 ##### [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)
-> pet project
+Pet project
 
 
 </br>

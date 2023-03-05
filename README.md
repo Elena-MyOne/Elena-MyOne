@@ -25,11 +25,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
 
 </br>
-<h4 align="center">Top languages I use:</h4>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-MyOne&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
 <h4 align="center">My Portfolio:</h4>
 
 #### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
@@ -83,7 +78,7 @@ Pet project
 
 <h4 align="center">Top languages I use:</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-MyOne&theme=dark&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-MyOne&theme=dark&layout=compact)
 
 </br>
 <h4 align="center">Statistic on GitHub:</h4>

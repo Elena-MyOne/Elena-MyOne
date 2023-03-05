@@ -81,6 +81,9 @@ Board game puzzle 15 on JavaScript
 #### [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)
 Pet project
 
+<h4 align="center">Top languages I use:</h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-MyOne&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 <h4 align="center">Statistic on GitHub:</h4>

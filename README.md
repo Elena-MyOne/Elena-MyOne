@@ -64,8 +64,10 @@ The store is a SPA application, it includes Home page with filters and product c
 
 Stack:  **HTML, SCSS, TypeScript, Webpack**
 
-#### [Songbird](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/songbird/dist/index.html)
+#### [Songbird](https://elena-myone.github.io/songbird/songbird/dist/)
 The game Songbird where you should guess a bird by its sound.
+
+Stack:  **HTML, SCSS, TypeScript, Webpack**
 
 
 #### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)

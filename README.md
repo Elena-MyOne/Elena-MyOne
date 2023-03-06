@@ -62,15 +62,19 @@ Stack:  **HTML, SCSS, TypeScript, Webpack**
 #### [Songbird](https://elena-myone.github.io/songbird/songbird/dist/)
 The game Songbird where you should guess a bird by its sound.
 
-Stack:  **HTML, SCSS, TypeScript, Webpack**
+Stack:  **HTML, SCSS, JavaScript, Webpack**
 
 
 #### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
 Companion app for Eldritch Horror board game to mix cards.
 
+Stack:  **HTML, SCSS, JavaScript**
+
 
 #### [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)
 Board game puzzle 15 on JavaScript
+
+Stack:  **HTML, SCSS, JavaScript, Webpack**
 
 
 #### [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)

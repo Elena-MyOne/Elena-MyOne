@@ -65,10 +65,10 @@ The game Songbird where you should guess a bird by its sound.
 Stack:  **HTML, SCSS, JavaScript, Webpack**
 
 
-#### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
-Companion app for Eldritch Horror board game to mix cards.
+#### [Calculator](https://github.com/Elena-MyOne/calculator)
+Standart Calculator
 
-Stack:  **HTML, SCSS, JavaScript**
+Stack:  **HTML, SCSS, TypeScript**
 
 
 #### [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)

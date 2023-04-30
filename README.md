@@ -16,7 +16,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript)
-![Angular](https://img.shields.io/badge/-Angular-333?style=for-the-badge&logo=Angular)
+![React](https://img.shields.io/badge/-Angular-333?style=for-the-badge&logo=React)
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)
 ![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=Webpack)  
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)

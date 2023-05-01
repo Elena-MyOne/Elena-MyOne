@@ -40,8 +40,8 @@ Professional website made for Mike Snow. It includes articles about traveling, a
 My personal promo website. Stack: **JavaScript, HTML, SASS(SCSS), PHP, Gulp**
 
 
-#### [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
-The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets. Stack: **JavaScript, HTML, CSS, Webpack**
+#### [Momentum deploy](https://elena-myone.github.io/momentum/my-app/dist/) and [code](https://github.com/Elena-MyOne/momentum)
+The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets. <br> Stack: **JavaScript, HTML, CSS, Webpack**
 
 
 #### [Amazing Trip](https://shipu4ka-rs-clone.netlify.app/)

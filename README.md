@@ -28,20 +28,46 @@
 <h4 align="center">My Portfolio:</h4>
 
 #### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
-Professional website made for wonderful professional, life coach Pamela Twigg. 
+Professional website made for wonderful professional, life coach Pamela Twigg.
+<br>
 Stack: **JavaScript, HTML, SASS(SCSS), PHP, Gulp**
-
+<br>
+<br>
 
 #### [Mike Snow](https://www.mikesnow.us/)
 Professional website made for Mike Snow. It includes articles about traveling, art, cuisine, and politic. Stack: **HTML, SASS(SCSS), Bootstrap**
-
+<br>
+<br>
 
 #### [My One](http://www.myonewebdevelop.com/)
-My personal promo website. Stack: **JavaScript, HTML, SASS(SCSS), PHP, Gulp**
+My personal promo website.
+<br>
+Stack: **JavaScript, HTML, SASS(SCSS), PHP, Gulp**
+<br>
+<br>
 
+#### [Fan-store](https://elena-myone.github.io/fan-store)
+An e-commerce application. On the front end, has utilized React, Redux, React Router DOM, TypeScript, Tailwind CSS, HTML, and CSS to create a responsive and visually appealing interface. The application offers a wide range of features, including a home page showcasing products with sorting and search capabilities. Users can browse, add items to their cart, and proceed with a simple checkout process. The application also provides product pages, authentication functionality for secure user access, and a profile page for managing account settings.
+In the back end, we leveraged Node.js, Express, and Axios to build a robust server-side infrastructure.
+<br>
 
-#### [Momentum deploy](https://elena-myone.github.io/momentum/my-app/dist/) and [code](https://github.com/Elena-MyOne/momentum)
-The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets. <br> Stack: **JavaScript, HTML, CSS, Webpack**
+[Deploy](https://elena-myone.github.io/fan-store) |
+[Front-end source code](https://github.com/Elena-MyOne/fan-store) |
+[Back-end source code](https://github.com/Elena-MyOne/fan-store-backend)
+<br>
+
+Stack: **TypeScript, HTML, SASS(SCSS),  React, Redux, React Router DOM, Tailwind CSS, Node.js, Express, Axios**
+<br>
+<br>
+
+#### [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
+The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets. 
+<br>
+
+[Deploy](https://elena-myone.github.io/momentum/my-app/dist/) and [code](https://github.com/Elena-MyOne/momentum)
+<br> 
+
+Stack: **JavaScript, HTML, CSS, Webpack**
 
 
 #### [Amazing Trip](https://shipu4ka-rs-clone.netlify.app/)

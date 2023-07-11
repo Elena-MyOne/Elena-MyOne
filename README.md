@@ -75,7 +75,8 @@ The Momentum project is an analog Momentum application from Google Chrome. The a
 <br> 
 
 Stack: **JavaScript, HTML, CSS, Webpack**
-
+<br>
+<br>
 
 #### [Amazing Trip](https://shipu4ka-rs-clone.netlify.app/)
 This application is a product of the collaboration of three developers: [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka) , [Alexandr Kabanau](https://github.com/AlexKabanau). A full description of the project is available in [README file](https://github.com/Elena-MyOne/rsclone/blob/develop/README.md)
@@ -83,7 +84,8 @@ This application is a product of the collaboration of three developers: [Elena I
 Stack: 
 * Front-end: **HTML, SCSS, JavaScript, TypeScript, Canvas, Three.js, Audio API, Webpack, Bootstrap, Nouislider**;
 * Backend: **Node.js, Express, Axios**
-
+<br>
+<br>
 
 #### [Best Store](https://shipu4ka-online-store.netlify.app/)
 The project is an online store Pet project made by two developers of [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka).
@@ -91,24 +93,29 @@ The project is an online store Pet project made by two developers of [Elena Iako
 The store is a SPA application, it includes Home page with filters and product cards, Cart page, Product page with checkout functionality, and 404 page
 
 Stack:  **HTML, SCSS, TypeScript, Webpack**
+<br>
+<br>
 
 #### [Songbird](https://elena-myone.github.io/songbird/songbird/dist/)
 The game Songbird where you should guess a bird by its sound.
 
 Stack:  **HTML, SCSS, JavaScript, Webpack**
-
+<br>
+<br>
 
 #### [Calculator](https://github.com/Elena-MyOne/calculator)
 Standard Calculator
 
 Stack:  **HTML, SCSS, TypeScript**
-
+<br>
+<br>
 
 #### [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)
 Board game Puzzle 15 on JavaScript
 
 Stack:  **HTML, SCSS, JavaScript, Webpack**
-
+<br>
+<br>
 
 #### [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)
 Pet project

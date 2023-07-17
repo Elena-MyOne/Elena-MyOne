@@ -78,8 +78,36 @@ Stack: **JavaScript, HTML, CSS, Webpack**
 <br>
 <br>
 
-#### [Amazing Trip](https://shipu4ka-rs-clone.netlify.app/)
-This application is a product of the collaboration of three developers: [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka) , [Alexandr Kabanau](https://github.com/AlexKabanau). A full description of the project is available in [README file](https://github.com/Elena-MyOne/rsclone/blob/develop/README.md)
+#### [Amazing Trip](https://elena-myone.github.io/rsclone/dist/)
+This application is a product of the collaboration of three developers: [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka), [Alexandr Kabanau](https://github.com/AlexKabanau). A full description of the project is available in [README file](https://github.com/Elena-MyOne/rsclone/blob/develop/README.md)
+<br>
+The application includes hree.js for 3D Graphics, responsive design, changing light and dark theme, implemented language change (RU/EN/BE), SPA, and routing written by our team on TypeScript, modal dialogs, using Local Storage, our own webpack configuration. 
+<br>
+Amazing Trip has 
+1. Country page with:
+  -Audio API
+    - playing the national anthem
+    - reproduction of phrases in the language of the country
+  - Yandex Maps API
+  - SpeechRecognition
+    - user voice recognition to check the pronunciation of phrases in the country language
+  - Implementation of comments about countries and saving them on the backend
+  - Ability to manage the gallery using Hotkeys. (Arrow keys, page up/page down, scroll)
+  - Realization REST API by using Node and Express
+2. Registration and authorization:
+  - Registration: validation and creating a new user on the backend
+  - When trying to authorize an unregistered user, the backend returns an error
+  - The ability to use the application without registration, but with limited functionality
+  - Form validation
+3. User profile
+  - Possibility to change the user's avatar with saving on the backend (only for registered users)
+  - For registered users, the progress of exploring countries is displayed
+    - quiz for each country
+    - quiz results are displayed in the profile and saved on the backend for each user
+  - A registered user has access to a quiz on knowledge of information about countries
+<br>
+
+[Deploy](https://elena-myone.github.io/rsclone/dist/) | [Front-end source code](https://github.com/Elena-MyOne/rsclone) | [Back-end source code](https://github.com/Elena-MyOne/backend-rs-clone)
 
 Stack: 
 * Front-end: **HTML, SCSS, JavaScript, TypeScript, Canvas, Three.js, Audio API, Webpack, Bootstrap, Nouislider**;

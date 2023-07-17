@@ -153,8 +153,26 @@ Stack:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>
 
+#### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
+The card algorithm in Eldritch Horror board game involves the arrangement and shuffling of three types of mixing cards: blue, brown, and green, each denoted by distinct color indicators on the card header. These card types are associated with different characteristics:
+
+1. Complex Cards: These cards, represented by a blue map icon, exhibit intricate designs and tentacles surrounding their names.
+
+2. Ordinary Cards: These cards do not bear any specific visual markers and are devoid of additional signs.
+
+3. Light Cards: Marked by an image of snowflakes around their names, these green cards symbolize events occurring at sunrise.
+
+The initial step entails selecting an Ancient One, which determines the deck composition and the quantity of cards of each color needed throughout the game. Subsequently, the card mixing process adheres to the instructions provided on each Ancient One card.
+
+The game progresses through five distinct levels, during which the composition and arrangement of the card decks may change based on the specific instructions and rules of the chosen Ancient One.
+
+Stack:  **HTML, SCSS, JavaScript**
+<br>
+<br>
+
 #### [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)
-Pet project
+Landing page
+Stack:  **HTML, SCSS, JavaScript**
 
 <h4 align="center">Top languages I use:</h4>
 

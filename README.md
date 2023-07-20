@@ -172,7 +172,9 @@ Stack:  **HTML, SCSS, JavaScript**
 
 #### [Online Zoo](https://elena-myone.github.io/online-zoo/dist/)
 A small pet project includes Home (2 sliders) and Donate pages (Pick and feed a friend interactive form). The site has an adaptive design. 
+
 [Code](https://github.com/Elena-MyOne/online-zoo) | [Deploy](https://elena-myone.github.io/online-zoo/dist/)
+
 Stack:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>

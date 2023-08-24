@@ -27,6 +27,13 @@
 </br>
 <h4 align="center">My Portfolio:</h4>
 
+#### [Portfolio](https://myoneweb.us/)
+My portfolio website with information about me, contacts, projects
+<br>
+Stack: **React, TypeScript, HTML, SASS(SCSS), Vite**
+<br>
+<br>
+
 #### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
 Professional website made for wonderful professional, life coach Pamela Twigg.
 <br>
@@ -36,13 +43,6 @@ Stack: **JavaScript, HTML, SASS(SCSS), PHP, Gulp**
 
 #### [Mike Snow](https://www.mikesnow.us/)
 Professional website made for Mike Snow. It includes articles about traveling, art, cuisine, and politic. Stack: **HTML, SASS(SCSS), Bootstrap**
-<br>
-<br>
-
-#### [My One](http://www.myonewebdevelop.com/)
-My personal promo website.
-<br>
-Stack: **JavaScript, HTML, SASS(SCSS), PHP, Gulp**
 <br>
 <br>
 

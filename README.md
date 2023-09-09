@@ -67,17 +67,6 @@ Stack: **TypeScript, HTML, SASS(SCSS),  React, Redux, React Router DOM, Tailwind
 <br>
 <br>
 
-#### [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
-The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets. 
-<br>
-
-[Deploy](https://elena-myone.github.io/momentum/my-app/dist/) and [code](https://github.com/Elena-MyOne/momentum)
-<br> 
-
-Stack: **JavaScript, HTML, CSS, Webpack**
-<br>
-<br>
-
 #### [Amazing Trip](https://elena-myone.github.io/rsclone/dist/)
 This application is a product of the collaboration of three developers: [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka), [Alexandr Kabanau](https://github.com/AlexKabanau). A full description of the project is available in [README file](https://github.com/Elena-MyOne/rsclone/blob/develop/README.md)
 <br>
@@ -112,6 +101,17 @@ Amazing Trip has
 Stack: 
 * Front-end: **HTML, SCSS, JavaScript, TypeScript, Canvas, Three.js, Audio API, Webpack, Bootstrap, Nouislider**;
 * Backend: **Node.js, Express, Axios**
+<br>
+<br>
+
+#### [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
+The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets. 
+<br>
+
+[Deploy](https://elena-myone.github.io/momentum/my-app/dist/) and [code](https://github.com/Elena-MyOne/momentum)
+<br> 
+
+Stack: **JavaScript, HTML, CSS, Webpack**
 <br>
 <br>
 

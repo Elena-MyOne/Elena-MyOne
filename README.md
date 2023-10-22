@@ -37,12 +37,12 @@ Stack: **React, TypeScript, HTML, SASS(SCSS), Vite**
 #### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
 Professional website made for wonderful professional, life coach Pamela Twigg.
 <br>
-Stack: **JavaScript, HTML, SASS(SCSS), PHP, Gulp**
+Stack: **JavaScript, HTML, SASS(SCSS), PHP, React, Vite, Calendly**
 <br>
 <br>
 
 #### [Mike Snow](https://www.mikesnow.us/)
-Professional website made for Mike Snow. It includes articles about traveling, art, cuisine, and politic. Stack: **HTML, SASS(SCSS), Bootstrap**
+Professional website made for Mike Snow. It includes articles about traveling, art, cuisine, and politics. Stack: **HTML, SASS(SCSS), Bootstrap**
 <br>
 <br>
 

@@ -42,7 +42,9 @@ Stack: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
 <br>
 
 #### [Mike Snow](https://www.mikesnow.us/)
-Professional website made for Mike Snow. It includes articles about traveling, art, cuisine, and politics. Stack: **HTML, SASS(SCSS), Bootstrap**
+Professional website made for Mike Snow. It includes articles about traveling, art, cuisine, and politics.
+<br>
+Stack: **HTML, SASS(SCSS), Bootstrap**
 <br>
 <br>
 

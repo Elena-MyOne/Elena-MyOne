@@ -37,7 +37,7 @@ Stack: **React, TypeScript, HTML, SASS(SCSS), Vite**
 #### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
 Professional website made for wonderful professional, life coach Pamela Twigg.
 <br>
-Stack: **JavaScript, HTML, SASS(SCSS), PHP, React, Vite, Calendly**
+Stack: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
 <br>
 <br>
 

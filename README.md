@@ -148,6 +148,14 @@ Stack:  **HTML, SCSS, TypeScript**
 <br>
 <br>
 
+#### [Sudoku](https://elena-myone.github.io/sudoku/random-game/)
+Game Sudoku
+[Code](https://github.com/Elena-MyOne/sudoku/tree/random-game) | [Deploy](https://elena-myone.github.io/sudoku/random-game/)
+Stack:  **HTML, SCSS, JavaScript**
+<br>
+<br>
+
+
 #### [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)
 Board game Puzzle 15 on JavaScript
 

@@ -150,7 +150,9 @@ Stack:  **HTML, SCSS, TypeScript**
 
 #### [Sudoku](https://elena-myone.github.io/sudoku/random-game/)
 Game Sudoku
+
 [Code](https://github.com/Elena-MyOne/sudoku/tree/random-game) | [Deploy](https://elena-myone.github.io/sudoku/random-game/)
+
 Stack:  **HTML, SCSS, JavaScript**
 <br>
 <br>

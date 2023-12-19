@@ -69,7 +69,7 @@ Stack: **TypeScript, HTML, SASS(SCSS),  React, Redux, React Router DOM, Tailwind
 <br>
 <br>
 
-#### [Amazing Trip](https://elena-myone.github.io/rsclone/dist/)
+#### [Amazing-Trip](https://elena-myone.github.io/rsclone/dist/)
 This application is a product of the collaboration of three developers: [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka), [Alexandr Kabanau](https://github.com/AlexKabanau). A full description of the project is available in [README file](https://github.com/Elena-MyOne/rsclone/blob/develop/README.md)
 <br>
 The application includes hree.js for 3D Graphics, responsive design, changing light and dark theme, implemented language change (RU/EN/BE), SPA, and routing written by our team on TypeScript, modal dialogs, using Local Storage, our own webpack configuration. 

@@ -42,7 +42,7 @@ Stack: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
 <br>
 
 #### [Mike Snow](https://www.mikesnow.us/)
-Professional website made for Mike Snow. It includes articles about traveling, art, cuisine, and politics.
+Professional website made for Mike Snow, a journalist who has lived in three continents, Mike Snow has contributed articles on international politics, travel, finance, agriculture, health and other wide ranging topics to the Washington Post, Philadelphia Inquirer, Los Angeles Times, Toronto Star, Stern Magazine, Miami Herald and dozens of other national and international publications, both as a reporter and combat correspondent in Asia and Africa and, in recent years, a travel writer who has been to more than 100 nations.
 <br>
 Stack: **HTML, SASS(SCSS), Bootstrap**
 <br>

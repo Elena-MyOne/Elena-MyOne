@@ -27,35 +27,35 @@
 </br>
 <h4 align="center">My Portfolio:</h4>
 
-#### [Portfolio](https://myoneweb.us/)
+### [Portfolio](https://myoneweb.us/)
 My portfolio website with information about me, contacts, projects
 <br>
 Stack: **React, TypeScript, HTML, SASS(SCSS), Vite**
 <br>
 <br>
 
-#### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
+### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
 Professional website made for wonderful professional, life coach Pamela Twigg.
 <br>
 Stack: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
 <br>
 <br>
 
-#### [Mike Snow](https://www.mikesnow.us/)
+### [Mike Snow](https://www.mikesnow.us/)
 Professional website made for Mike Snow, a journalist who has lived in three continents, Mike Snow has contributed articles on international politics, travel, finance, agriculture, health and other wide ranging topics to the Washington Post, Philadelphia Inquirer, Los Angeles Times, Toronto Star, Stern Magazine, Miami Herald and dozens of other national and international publications, both as a reporter and combat correspondent in Asia and Africa and, in recent years, a travel writer who has been to more than 100 nations.
 <br>
 Stack: **HTML, SASS(SCSS), Bootstrap**
 <br>
 <br>
 
-#### [Shari Tischler](https://shari-tischler-writer.com/)
+### [Shari Tischler](https://shari-tischler-writer.com/)
 Professional website made for Shari Tischler - content creator, and blogger
 <br>
 Stack: **WordPress**
 <br>
 <br>
 
-#### [Fan-store](https://elena-myone.github.io/fan-store)
+### [Fan-store](https://elena-myone.github.io/fan-store)
 An e-commerce application. On the front end, has utilized React, Redux, React Router DOM, TypeScript, Tailwind CSS, HTML, and CSS to create a responsive and visually appealing interface. The application offers a wide range of features, including a home page showcasing products with sorting and search capabilities. Users can browse, add items to their cart, and proceed with a simple checkout process. The application also provides product pages, authentication functionality for secure user access, and a profile page for managing account settings.
 In the back end, we leveraged Node.js, Express, and Axios to build a robust server-side infrastructure.
 <br>
@@ -69,7 +69,7 @@ Stack: **TypeScript, HTML, SASS(SCSS),  React, Redux, React Router DOM, Tailwind
 <br>
 <br>
 
-#### [Amazing-Trip](https://elena-myone.github.io/rsclone/dist/)
+### [Amazing-Trip](https://elena-myone.github.io/rsclone/dist/)
 This application is a product of the collaboration of three developers: [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka), [Alexandr Kabanau](https://github.com/AlexKabanau). A full description of the project is available in [README file](https://github.com/Elena-MyOne/rsclone/blob/develop/README.md)
 <br>
 The application includes hree.js for 3D Graphics, responsive design, changing light and dark theme, implemented language change (RU/EN/BE), SPA, and routing written by our team on TypeScript, modal dialogs, using Local Storage, our own webpack configuration. 
@@ -104,9 +104,8 @@ Stack:
 * Front-end: **HTML, SCSS, JavaScript, TypeScript, Canvas, Three.js, Audio API, Webpack, Bootstrap, Nouislider**;
 * Backend: **Node.js, Express, Axios**
 <br>
-<br>
 
-#### [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
+### [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
 The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets. 
 <br>
 
@@ -117,7 +116,7 @@ Stack: **JavaScript, HTML, CSS, Webpack**
 <br>
 <br>
 
-#### [Best Store](https://shipu4ka-online-store.netlify.app/)
+### [Best Store](https://shipu4ka-online-store.netlify.app/)
 The project is an online store Pet project made by two developers of [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka).
 
 The store is a SPA application, it includes Home page with filters and product cards, Cart page, Product page with checkout functionality, and 404 page
@@ -126,7 +125,31 @@ Stack:  **HTML, SCSS, TypeScript, Webpack**
 <br>
 <br>
 
-#### [Songbird](https://elena-myone.github.io/songbird/songbird/dist/)
+### [ImageGallery](https://imagegallery-a0f41.web.app/)
+This project is a dynamic and interactive web SPA application built to showcase a collection of images in a user-friendly gallery format. The ImageGallery project offers the following key features:
+
+1. _Dynamic Gallery_: Users can browse through a collection of images displayed in a dynamic and
+   interactive gallery format.
+
+2. _Authentication_: Users can sign in securely using their Google account to access personalized
+   features.
+
+3. _Image Upload_: Authenticated users have the ability to upload their own images to the gallery,
+   enhancing the collection.
+
+4. _Responsive Design_: The application is designed to be fully responsive, ensuring a seamless
+   experience across devices of all sizes.
+<br>
+
+[Deploy](https://imagegallery-a0f41.web.app/) and [Source code](https://github.com/Elena-MyOne/image-gallery)
+
+<br>
+
+Stack: **React.js, TypeScript, JavaScript, Bootstrap, Firebase**
+
+<br>
+
+### [Songbird](https://elena-myone.github.io/songbird/songbird/dist/)
 The game Songbird where you should guess a bird by its sound.
 
 Rules are pretty easy:
@@ -141,14 +164,14 @@ Stack:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>
 
-#### [Calculator](https://github.com/Elena-MyOne/calculator)
+### [Calculator](https://github.com/Elena-MyOne/calculator)
 Standard Calculator
 
 Stack:  **HTML, SCSS, TypeScript**
 <br>
 <br>
 
-#### [Sudoku](https://elena-myone.github.io/sudoku/random-game/)
+### [Sudoku](https://elena-myone.github.io/sudoku/random-game/)
 Game Sudoku
 
 [Code](https://github.com/Elena-MyOne/sudoku/tree/random-game) | [Deploy](https://elena-myone.github.io/sudoku/random-game/)
@@ -158,14 +181,14 @@ Stack:  **HTML, SCSS, JavaScript**
 <br>
 
 
-#### [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)
+### [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)
 Board game Puzzle 15 on JavaScript
 
 Stack:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>
 
-#### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
+### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
 The card algorithm in Eldritch Horror board game involves the arrangement and shuffling of three types of mixing cards: blue, brown, and green, each denoted by distinct color indicators on the card header. These card types are associated with different characteristics:
 
 1. Complex Cards: These cards, represented by a blue map icon, exhibit intricate designs and tentacles surrounding their names.
@@ -182,7 +205,7 @@ Stack:  **HTML, SCSS, JavaScript**
 <br>
 <br>
 
-#### [Online Zoo](https://elena-myone.github.io/online-zoo/dist/)
+### [Online Zoo](https://elena-myone.github.io/online-zoo/dist/)
 A small pet project includes Home (2 sliders) and Donate pages (Pick and feed a friend interactive form). The site has an adaptive design. 
 
 [Code](https://github.com/Elena-MyOne/online-zoo) | [Deploy](https://elena-myone.github.io/online-zoo/dist/)
@@ -191,7 +214,7 @@ Stack:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>
 
-#### [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)
+### [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)
 Landing page
 Stack:  **HTML, SCSS, JavaScript**
 

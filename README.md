@@ -202,6 +202,7 @@ Learning Objectives:
 3. Manipulate the DOM to update the game interface dynamically.
 
 Stack:  **HTML, SCSS, JavaScript**
+</br>
 [Code](https://github.com/Elena-MyOne/tic_tac_toe) and [Deploy](https://elena-myone.github.io/tic_tac_toe/)
 </br>
 </br>

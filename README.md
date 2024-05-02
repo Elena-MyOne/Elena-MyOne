@@ -204,6 +204,8 @@ Learning Objectives:
 Stack:  **HTML, SCSS, JavaScript**
 [Code](https://github.com/Elena-MyOne/tic_tac_toe) and [Deploy](https://elena-myone.github.io/tic_tac_toe/)
 
+
+
 ### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
 The card algorithm in Eldritch Horror board game involves the arrangement and shuffling of three types of mixing cards: blue, brown, and green, each denoted by distinct color indicators on the card header. These card types are associated with different characteristics:
 

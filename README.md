@@ -192,6 +192,18 @@ Stack:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>
 
+### [Tic Tac Toe](https://elena-myone.github.io/tic_tac_toe/)
+This project is a Tic Tac Toe game that can be played in the browser. The game allows two players to take turns marking spaces on a 3x3 grid with their respective symbols (X and O). The objective of the game is to get three of your symbols in a row, either horizontally, vertically, or diagonally.
+
+Learning Objectives: 
+1. Practice <b>the module pattern - IIFEs</b> JavaScript by organizing code into objects and
+   factories.
+2. Implement game logic for checking win conditions and handling player turns.
+3. Manipulate the DOM to update the game interface dynamically.
+
+Stack:  **HTML, SCSS, JavaScript**
+[Code](https://github.com/Elena-MyOne/tic_tac_toe) and [Deploy](https://elena-myone.github.io/tic_tac_toe/)
+
 ### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
 The card algorithm in Eldritch Horror board game involves the arrangement and shuffling of three types of mixing cards: blue, brown, and green, each denoted by distinct color indicators on the card header. These card types are associated with different characteristics:
 

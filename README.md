@@ -34,28 +34,7 @@
 ### [Portfolio](https://myoneweb.us/)
 My portfolio website with information about me, contacts, projects
 <br>
-Stack: **React, TypeScript, HTML, SASS(SCSS), Vite**
-<br>
-<br>
-
-### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
-Professional website made for wonderful professional, life coach Pamela Twigg.
-<br>
-Stack: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
-<br>
-<br>
-
-### [Mike Snow](https://www.mikesnow.us/)
-Professional website made for Mike Snow, a journalist who has lived in three continents, Mike Snow has contributed articles on international politics, travel, finance, agriculture, health and other wide ranging topics to the Washington Post, Philadelphia Inquirer, Los Angeles Times, Toronto Star, Stern Magazine, Miami Herald and dozens of other national and international publications, both as a reporter and combat correspondent in Asia and Africa and, in recent years, a travel writer who has been to more than 100 nations.
-<br>
-Stack: **HTML, SASS(SCSS), Bootstrap**
-<br>
-<br>
-
-### [Shari Tischler](https://shari-tischler-writer.com/)
-Professional website made for Shari Tischler - content creator, and blogger
-<br>
-Stack: **WordPress**
+Technologies used: **React, TypeScript, HTML, SASS(SCSS), Vite**
 <br>
 <br>
 
@@ -69,7 +48,7 @@ In the back end, we leveraged Node.js, Express, and Axios to build a robust serv
 [Back-end source code](https://github.com/Elena-MyOne/fan-store-backend)
 <br>
 
-Stack: **TypeScript, HTML, SASS(SCSS),  React, Redux, React Router DOM, Tailwind CSS, Node.js, Express, Axios**
+Technologies used: **TypeScript, HTML, SASS(SCSS),  React, Redux, React Router DOM, Tailwind CSS, Node.js, Express, Axios**
 <br>
 <br>
 
@@ -104,9 +83,42 @@ Amazing Trip has
 
 [Deploy](https://elena-myone.github.io/rsclone/dist/) | [Front-end source code](https://github.com/Elena-MyOne/rsclone) | [Back-end source code](https://github.com/Elena-MyOne/backend-rs-clone)
 
-Stack: 
+Technologies used: 
 * Front-end: **HTML, SCSS, JavaScript, TypeScript, Canvas, Three.js, Audio API, Webpack, Bootstrap, Nouislider**;
 * Backend: **Node.js, Express, Axios**
+<br>
+
+### [Best Show](https://elena-myone.github.io/best-show/#/shows?page=0)
+
+This project aims to explore and demonstrate the integration of Redux Toolkit Query (RTK Query) with Redux for state management, focusing on TypeScript with MSW (Mock Service Worker) for testing. The main objective is to showcase the effective utilization of RTK Query within a Redux application, covering a significant portion of the provided API functionalities and ensuring comprehensive test coverage.
+
+Technologies used: 
+**React, Redux Toolkit Query, TypeScript, Vitest, MSW (Mock Service Worker), Vite, ESLint, Prettier, Husky**
+<br>
+
+[Deploy](https://elena-myone.github.io/best-show) | [Cource code](https://github.com/Elena-MyOne/best-show)
+<br>
+<br>
+
+### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
+Professional website made for wonderful professional, life coach Pamela Twigg.
+<br>
+Technologies used: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
+<br>
+<br>
+
+### [Mike Snow](https://www.mikesnow.us/)
+Professional website made for Mike Snow, a journalist who has lived in three continents, Mike Snow has contributed articles on international politics, travel, finance, agriculture, health and other wide ranging topics to the Washington Post, Philadelphia Inquirer, Los Angeles Times, Toronto Star, Stern Magazine, Miami Herald and dozens of other national and international publications, both as a reporter and combat correspondent in Asia and Africa and, in recent years, a travel writer who has been to more than 100 nations.
+<br>
+Technologies used: **HTML, SASS(SCSS), Bootstrap**
+<br>
+<br>
+
+### [Shari Tischler](https://shari-tischler-writer.com/)
+Professional website made for Shari Tischler - content creator, and blogger
+<br>
+Technologies used: **WordPress**
+<br>
 <br>
 
 ### [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
@@ -116,7 +128,7 @@ The Momentum project is an analog Momentum application from Google Chrome. The a
 [Deploy](https://elena-myone.github.io/momentum/my-app/dist/) and [code](https://github.com/Elena-MyOne/momentum)
 <br> 
 
-Stack: **JavaScript, HTML, CSS, Webpack**
+Technologies used: **JavaScript, HTML, CSS, Webpack**
 <br>
 <br>
 
@@ -125,7 +137,7 @@ The project is an online store Pet project made by two developers of [Elena Iako
 
 The store is a SPA application, it includes Home page with filters and product cards, Cart page, Product page with checkout functionality, and 404 page
 
-Stack:  **HTML, SCSS, TypeScript, Webpack**
+Technologies used:  **HTML, SCSS, TypeScript, Webpack**
 <br>
 <br>
 
@@ -149,7 +161,7 @@ This project is a dynamic and interactive web SPA application built to showcase 
 
 <br>
 
-Stack: **React.js, TypeScript, JavaScript, Bootstrap, Firebase**
+Technologies used: **React.js, TypeScript, JavaScript, Bootstrap, Firebase**
 
 <br>
 
@@ -164,14 +176,14 @@ All points will be added up.
 
 Good luck!
 
-Stack:  **HTML, SCSS, JavaScript, Webpack**
+Technologies used:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>
 
 ### [Calculator](https://github.com/Elena-MyOne/calculator)
 Standard Calculator
 
-Stack:  **HTML, SCSS, TypeScript**
+Technologies used:  **HTML, SCSS, TypeScript**
 <br>
 <br>
 
@@ -180,7 +192,7 @@ Game Sudoku
 
 [Code](https://github.com/Elena-MyOne/sudoku/tree/random-game) | [Deploy](https://elena-myone.github.io/sudoku/random-game/)
 
-Stack:  **HTML, SCSS, JavaScript**
+Technologies used:  **HTML, SCSS, JavaScript**
 <br>
 <br>
 
@@ -188,7 +200,7 @@ Stack:  **HTML, SCSS, JavaScript**
 ### [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)
 Board game Puzzle 15 on JavaScript
 
-Stack:  **HTML, SCSS, JavaScript, Webpack**
+Technologies used:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>
 
@@ -201,7 +213,7 @@ Learning Objectives:
 2. Implement game logic for checking win conditions and handling player turns.
 3. Manipulate the DOM to update the game interface dynamically.
 
-Stack:  **HTML, SCSS, JavaScript**
+Technologies used:  **HTML, SCSS, JavaScript**
 </br>
 [Code](https://github.com/Elena-MyOne/tic_tac_toe) and [Deploy](https://elena-myone.github.io/tic_tac_toe/)
 </br>
@@ -220,7 +232,7 @@ The initial step entails selecting an Ancient One, which determines the deck com
 
 The game progresses through five distinct levels, during which the composition and arrangement of the card decks may change based on the specific instructions and rules of the chosen Ancient One.
 
-Stack:  **HTML, SCSS, JavaScript**
+Technologies used:  **HTML, SCSS, JavaScript**
 <br>
 <br>
 
@@ -235,7 +247,7 @@ Stack:  **HTML, SCSS, JavaScript, Webpack**
 
 ### [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)
 Landing page
-Stack:  **HTML, SCSS, JavaScript**
+Technologies used:  **HTML, SCSS, JavaScript**
 
 <h4 align="center">Top languages I use:</h4>
 

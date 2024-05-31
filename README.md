@@ -31,28 +31,26 @@
 </br>
 <h4 align="center">My Portfolio:</h4>
 
-### [Portfolio](https://myoneweb.us/)
+## [Portfolio](https://myoneweb.us/)
 My portfolio website with information about me, contacts, projects
 <br>
 Technologies used: **React, TypeScript, HTML, SASS(SCSS), Vite**
 <br>
 <br>
 
-### [Fan-store](https://elena-myone.github.io/fan-store)
+## [Fan-store](https://elena-myone.github.io/fan-store)
 An e-commerce application. On the front end, has utilized React, Redux, React Router DOM, TypeScript, Tailwind CSS, HTML, and CSS to create a responsive and visually appealing interface. The application offers a wide range of features, including a home page showcasing products with sorting and search capabilities. Users can browse, add items to their cart, and proceed with a simple checkout process. The application also provides product pages, authentication functionality for secure user access, and a profile page for managing account settings.
 In the back end, we leveraged Node.js, Express, and Axios to build a robust server-side infrastructure.
 <br>
-
 [Deploy](https://elena-myone.github.io/fan-store) |
 [Front-end source code](https://github.com/Elena-MyOne/fan-store) |
 [Back-end source code](https://github.com/Elena-MyOne/fan-store-backend)
 <br>
-
 Technologies used: **TypeScript, HTML, SASS(SCSS),  React, Redux, React Router DOM, Tailwind CSS, Node.js, Express, Axios**
 <br>
 <br>
 
-### [Amazing-Trip](https://elena-myone.github.io/rsclone/dist/)
+## [Amazing-Trip](https://elena-myone.github.io/rsclone/dist/)
 This application is a product of the collaboration of three developers: [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka), [Alexandr Kabanau](https://github.com/AlexKabanau). A full description of the project is available in [README file](https://github.com/Elena-MyOne/rsclone/blob/develop/README.md)
 <br>
 The application includes hree.js for 3D Graphics, responsive design, changing light and dark theme, implemented language change (RU/EN/BE), SPA, and routing written by our team on TypeScript, modal dialogs, using Local Storage, our own webpack configuration. 
@@ -79,7 +77,6 @@ Amazing Trip has
     - quiz for each country
     - quiz results are displayed in the profile and saved on the backend for each user
   - A registered user has access to a quiz on knowledge of information about countries
-<br>
 
 [Deploy](https://elena-myone.github.io/rsclone/dist/) | [Front-end source code](https://github.com/Elena-MyOne/rsclone) | [Back-end source code](https://github.com/Elena-MyOne/backend-rs-clone)
 
@@ -88,125 +85,110 @@ Technologies used:
 * Backend: **Node.js, Express, Axios**
 <br>
 
-### [Best Show](https://elena-myone.github.io/best-show/#/shows?page=0)
+## [Best Show](https://elena-myone.github.io/best-show/#/shows?page=0)
 
 This project aims to explore and demonstrate the integration of Redux Toolkit Query (RTK Query) with Redux for state management, focusing on TypeScript with MSW (Mock Service Worker) for testing. The main objective is to showcase the effective utilization of RTK Query within a Redux application, covering a significant portion of the provided API functionalities and ensuring comprehensive test coverage.
-
+<br>
 Technologies used: 
 **React, Redux Toolkit Query, TypeScript, Vitest, MSW (Mock Service Worker), Vite, ESLint, Prettier, Husky**
 <br>
-
 [Deploy](https://elena-myone.github.io/best-show) | [Cource code](https://github.com/Elena-MyOne/best-show)
 <br>
 <br>
 
-### [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
+## [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
 Professional website made for wonderful professional, life coach Pamela Twigg.
 <br>
 Technologies used: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
 <br>
 <br>
 
-### [Mike Snow](https://www.mikesnow.us/)
+## [Mike Snow](https://www.mikesnow.us/)
 Professional website made for Mike Snow, a journalist who has lived in three continents, Mike Snow has contributed articles on international politics, travel, finance, agriculture, health and other wide ranging topics to the Washington Post, Philadelphia Inquirer, Los Angeles Times, Toronto Star, Stern Magazine, Miami Herald and dozens of other national and international publications, both as a reporter and combat correspondent in Asia and Africa and, in recent years, a travel writer who has been to more than 100 nations.
 <br>
 Technologies used: **HTML, SASS(SCSS), Bootstrap**
 <br>
 <br>
 
-### [Shari Tischler](https://shari-tischler-writer.com/)
+## [Shari Tischler](https://shari-tischler-writer.com/)
 Professional website made for Shari Tischler - content creator, and blogger
 <br>
 Technologies used: **WordPress**
 <br>
 <br>
 
-### [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
-The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, todo list, and settings. The settings allow changing language and hiding some of the widgets. 
+## [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
+The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, to-do list, and settings. The settings allow changing language and hiding some of the widgets. 
 <br>
-
-[Deploy](https://elena-myone.github.io/momentum/my-app/dist/) and [code](https://github.com/Elena-MyOne/momentum)
+[Deploy](https://elena-myone.github.io/momentum/my-app/dist/) | [Code](https://github.com/Elena-MyOne/momentum)
 <br> 
-
 Technologies used: **JavaScript, HTML, CSS, Webpack**
 <br>
 <br>
 
-### [Best Store](https://shipu4ka-online-store.netlify.app/)
+## [Best Store](https://shipu4ka-online-store.netlify.app/)
 The project is an online store Pet project made by two developers of [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka).
-
 The store is a SPA application, it includes Home page with filters and product cards, Cart page, Product page with checkout functionality, and 404 page
-
+<br>
 Technologies used:  **HTML, SCSS, TypeScript, Webpack**
 <br>
 <br>
 
-### [ImageGallery](https://imagegallery-a0f41.web.app/)
+## [ImageGallery](https://imagegallery-a0f41.web.app/)
 This project is a dynamic and interactive web SPA application built to showcase a collection of images in a user-friendly gallery format. The ImageGallery project offers the following key features:
-
 1. _Dynamic Gallery_: Users can browse through a collection of images displayed in a dynamic and
    interactive gallery format.
-
 2. _Authentication_: Users can sign in securely using their Google account to access personalized
    features.
-
 3. _Image Upload_: Authenticated users have the ability to upload their own images to the gallery,
    enhancing the collection.
-
 4. _Responsive Design_: The application is designed to be fully responsive, ensuring a seamless
    experience across devices of all sizes.
-<br>
 
 [Deploy](https://imagegallery-a0f41.web.app/) and [Source code](https://github.com/Elena-MyOne/image-gallery)
 
-<br>
-
 Technologies used: **React.js, TypeScript, JavaScript, Bootstrap, Firebase**
-
+<br>
 <br>
 
-### [Songbird](https://elena-myone.github.io/songbird/songbird/dist/)
+## [Songbird](https://elena-myone.github.io/songbird/songbird/dist/)
 The game Songbird where you should guess a bird by its sound.
-
+<br>
 Rules are pretty easy:
-
 Each time you guess right from the first try you get 5 points. If the first guess is wrong every next try will cost you 1 point. So if the right try is only 6th you get 0 points.
-
 All points will be added up.
-
 Good luck!
 
 Technologies used:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>
 
-### [Calculator](https://github.com/Elena-MyOne/calculator)
+## [Calculator](https://github.com/Elena-MyOne/calculator)
 Standard Calculator
-
+<br>
 Technologies used:  **HTML, SCSS, TypeScript**
 <br>
 <br>
 
-### [Sudoku](https://elena-myone.github.io/sudoku/random-game/)
+## [Sudoku](https://elena-myone.github.io/sudoku/random-game/)
 Game Sudoku
-
+<br>
 [Code](https://github.com/Elena-MyOne/sudoku/tree/random-game) | [Deploy](https://elena-myone.github.io/sudoku/random-game/)
-
+<br>
 Technologies used:  **HTML, SCSS, JavaScript**
 <br>
 <br>
 
-
-### [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)
+## [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/)
 Board game Puzzle 15 on JavaScript
-
+<br>
 Technologies used:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>
 
-### [Tic Tac Toe](https://elena-myone.github.io/tic_tac_toe/)
+## [Tic Tac Toe](https://elena-myone.github.io/tic_tac_toe/)
 This project is a Tic Tac Toe game that can be played in the browser. The game allows two players to take turns marking spaces on a 3x3 grid with their respective symbols (X and O). The objective of the game is to get three of your symbols in a row, either horizontally, vertically, or diagonally.
-
+<br>
 Learning Objectives: 
 1. Practice <b>the module pattern - IIFEs</b> JavaScript by organizing code into objects and
    factories.
@@ -214,20 +196,16 @@ Learning Objectives:
 3. Manipulate the DOM to update the game interface dynamically.
 
 Technologies used:  **HTML, SCSS, JavaScript**
-</br>
-[Code](https://github.com/Elena-MyOne/tic_tac_toe) and [Deploy](https://elena-myone.github.io/tic_tac_toe/)
+
+[Code](https://github.com/Elena-MyOne/tic_tac_toe) | [Deploy](https://elena-myone.github.io/tic_tac_toe/)
 </br>
 </br>
 
-### [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
-The card algorithm in Eldritch Horror board game involves the arrangement and shuffling of three types of mixing cards: blue, brown, and green, each denoted by distinct color indicators on the card header. These card types are associated with different characteristics:
-
+## [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/)
+The card algorithm in the Eldritch Horror board game involves arranging and shuffling three types of mixing cards: blue, brown, and green, each denoted by distinct color indicators on the card header. These card types are associated with different characteristics:
 1. Complex Cards: These cards, represented by a blue map icon, exhibit intricate designs and tentacles surrounding their names.
-
 2. Ordinary Cards: These cards do not bear any specific visual markers and are devoid of additional signs.
-
 3. Light Cards: Marked by an image of snowflakes around their names, these green cards symbolize events occurring at sunrise.
-
 The initial step entails selecting an Ancient One, which determines the deck composition and the quantity of cards of each color needed throughout the game. Subsequently, the card mixing process adheres to the instructions provided on each Ancient One card.
 
 The game progresses through five distinct levels, during which the composition and arrangement of the card decks may change based on the specific instructions and rules of the chosen Ancient One.
@@ -236,18 +214,20 @@ Technologies used:  **HTML, SCSS, JavaScript**
 <br>
 <br>
 
-### [Online Zoo](https://elena-myone.github.io/online-zoo/dist/)
+## [Online Zoo](https://elena-myone.github.io/online-zoo/dist/)
 A small pet project includes Home (2 sliders) and Donate pages (Pick and feed a friend interactive form). The site has an adaptive design. 
-
+<br>
 [Code](https://github.com/Elena-MyOne/online-zoo) | [Deploy](https://elena-myone.github.io/online-zoo/dist/)
-
+<br>
 Stack:  **HTML, SCSS, JavaScript, Webpack**
 <br>
 <br>
 
-### [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)
+## [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/)
 Landing page
+<br>
 Technologies used:  **HTML, SCSS, JavaScript**
+<br>
 
 <h4 align="center">Top languages I use:</h4>
 

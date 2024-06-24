@@ -49,6 +49,39 @@ Technologies used: **TypeScript, HTML, SASS(SCSS),  React, Redux, React Router D
 <br>
 <br>
 
+## [Best Show](https://elena-myone.github.io/best-show/#/shows?page=0)
+
+This project aims to explore and demonstrate the integration of Redux Toolkit Query (RTK Query) with Redux for state management, focusing on TypeScript with MSW (Mock Service Worker) for testing. The main objective is to showcase the effective utilization of RTK Query within a Redux application, covering a significant portion of the provided API functionalities and ensuring comprehensive test coverage.
+<br>
+Technologies used: 
+**React, Redux Toolkit Query, TypeScript, Vitest, MSW (Mock Service Worker), Vite, ESLint, Prettier, Husky**
+<br>
+[Deploy](https://elena-myone.github.io/best-show) | [Cource code](https://github.com/Elena-MyOne/best-show)
+<br>
+<br>
+
+## [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
+Professional website made for wonderful professional, life coach Pamela Twigg.
+<br>
+Technologies used: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
+<br>
+<br>
+
+## [Mike Snow](https://www.mikesnow.us/)
+Professional website made for Mike Snow, a journalist who has lived in three continents, Mike Snow has contributed articles on international politics, travel, finance, agriculture, health and other wide ranging topics to the Washington Post, Philadelphia Inquirer, Los Angeles Times, Toronto Star, Stern Magazine, Miami Herald and dozens of other national and international publications, both as a reporter and combat correspondent in Asia and Africa and, in recent years, a travel writer who has been to more than 100 nations.
+<br>
+Technologies used: **HTML, SASS(SCSS), Bootstrap**
+<br>
+<br>
+
+## [Shari Tischler](https://shari-tischler-writer.com/)
+Professional website made for Shari Tischler - content creator, and blogger
+<br>
+Technologies used: **WordPress**
+<br>
+<br>
+
+
 ## [Amazing-Trip](https://elena-myone.github.io/rsclone/dist/)
 This application is a product of the collaboration of three developers: [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka), [Alexandr Kabanau](https://github.com/AlexKabanau). A full description of the project is available in [README file](https://github.com/Elena-MyOne/rsclone/blob/develop/README.md)
 <br>
@@ -84,37 +117,6 @@ Technologies used:
 * Backend: **Node.js, Express, Axios**
 <br>
 
-## [Best Show](https://elena-myone.github.io/best-show/#/shows?page=0)
-
-This project aims to explore and demonstrate the integration of Redux Toolkit Query (RTK Query) with Redux for state management, focusing on TypeScript with MSW (Mock Service Worker) for testing. The main objective is to showcase the effective utilization of RTK Query within a Redux application, covering a significant portion of the provided API functionalities and ensuring comprehensive test coverage.
-<br>
-Technologies used: 
-**React, Redux Toolkit Query, TypeScript, Vitest, MSW (Mock Service Worker), Vite, ESLint, Prettier, Husky**
-<br>
-[Deploy](https://elena-myone.github.io/best-show) | [Cource code](https://github.com/Elena-MyOne/best-show)
-<br>
-<br>
-
-## [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
-Professional website made for wonderful professional, life coach Pamela Twigg.
-<br>
-Technologies used: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
-<br>
-<br>
-
-## [Mike Snow](https://www.mikesnow.us/)
-Professional website made for Mike Snow, a journalist who has lived in three continents, Mike Snow has contributed articles on international politics, travel, finance, agriculture, health and other wide ranging topics to the Washington Post, Philadelphia Inquirer, Los Angeles Times, Toronto Star, Stern Magazine, Miami Herald and dozens of other national and international publications, both as a reporter and combat correspondent in Asia and Africa and, in recent years, a travel writer who has been to more than 100 nations.
-<br>
-Technologies used: **HTML, SASS(SCSS), Bootstrap**
-<br>
-<br>
-
-## [Shari Tischler](https://shari-tischler-writer.com/)
-Professional website made for Shari Tischler - content creator, and blogger
-<br>
-Technologies used: **WordPress**
-<br>
-<br>
 
 ## [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)
 The Momentum project is an analog Momentum application from Google Chrome. The application shows the time and username. The background image and greeting changes depending on the time of day. It also has a clock, images slider, weather widget, audio player, quote of the day widget, to-do list, and settings. The settings allow changing language and hiding some of the widgets. 

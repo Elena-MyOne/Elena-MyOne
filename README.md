@@ -20,8 +20,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 ![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=Webpack)
 ![Vite](https://img.shields.io/badge/-Vite-333?style=for-the-badge&logo=vite)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
 ![Vitest](https://img.shields.io/badge/-Vitest-333?style=for-the-badge&logo=Vitest)

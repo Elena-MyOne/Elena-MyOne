@@ -127,14 +127,6 @@ Technologies used: **JavaScript, HTML, CSS, Webpack**
 <br>
 <br>
 
-## [Best Store](https://shipu4ka-online-store.netlify.app/)
-The project is an online store Pet project made by two developers of [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka).
-The store is a SPA application, it includes Home page with filters and product cards, Cart page, Product page with checkout functionality, and 404 page
-<br>
-Technologies used:  **HTML, SCSS, TypeScript, Webpack**
-<br>
-<br>
-
 ## [ImageGallery](https://imagegallery-a0f41.web.app/)
 This project is a dynamic and interactive web SPA application built to showcase a collection of images in a user-friendly gallery format. The ImageGallery project offers the following key features:
 1. _Dynamic Gallery_: Users can browse through a collection of images displayed in a dynamic and

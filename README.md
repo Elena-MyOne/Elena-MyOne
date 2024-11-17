@@ -26,6 +26,8 @@
 ![Jest](https://img.shields.io/badge/-Jest-333?style=for-the-badge&logo=Jest)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=for-the-badge&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=MongoDB)
+![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql)
+
 
 </br>
 <h4 align="center">My Portfolio:</h4>

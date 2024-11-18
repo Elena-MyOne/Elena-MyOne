@@ -39,6 +39,13 @@ Technologies used: **React, TypeScript, HTML, SASS(SCSS), Vite**
 <br>
 <br>
 
+## [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
+Professional website made for wonderful professional, life coach Pamela Twigg.
+<br>
+Technologies used: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
+<br>
+<br>
+
 ## [Fan-store](https://elena-myone.github.io/fan-store)
 An e-commerce application. On the front end, has utilized React, Redux, React Router DOM, TypeScript, Tailwind CSS, HTML, and CSS to create a responsive and visually appealing interface. The application offers a wide range of features, including a home page showcasing products with sorting and search capabilities. Users can browse, add items to their cart, and proceed with a simple checkout process. The application also provides product pages, authentication functionality for secure user access, and a profile page for managing account settings.
 In the back end, we leveraged Node.js, Express, and Axios to build a robust server-side infrastructure.
@@ -59,13 +66,6 @@ Technologies used:
 **React, Redux Toolkit Query, TypeScript, Vitest, MSW (Mock Service Worker), Vite, ESLint, Prettier, Husky**
 <br>
 [Deploy](https://elena-myone.github.io/best-show) | [Cource code](https://github.com/Elena-MyOne/best-show)
-<br>
-<br>
-
-## [Pamela Twigg coaching](http://pamelatwiggcoaching.com/)
-Professional website made for wonderful professional, life coach Pamela Twigg.
-<br>
-Technologies used: **React, Vite, JavaScript, HTML, SASS(SCSS), PHP, Calendly**
 <br>
 <br>
 

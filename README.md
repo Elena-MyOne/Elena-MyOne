@@ -44,11 +44,12 @@
 | [Songbird](https://elena-myone.github.io/songbird/songbird/dist/) | HTML, CSS/SCSS, JavaScript, Webpack            | [code](https://github.com/Elena-MyOne/songbird)  |
 | [Momentum](https://elena-myone.github.io/momentum/my-app/dist/)    | JavaScript, HTML, CSS/SCSS, Webpack            | [code](https://github.com/Elena-MyOne/momentum)
 | [ImageGallery](https://imagegallery-a0f41.web.app/)   | React, TypeScript, JavaScript, Bootstrap, Firebase, CSS          | [code](https://github.com/Elena-MyOne/image-gallery) |
-| [Sudoku](https://elena-myone.github.io/sudoku/random-game/) | HTML, CSS/SCSS, JavaScript | [code](https://github.com/Elena-MyOne/sudoku/tree/random-game) |
-| [Tic Tac Toe](https://elena-myone.github.io/tic_tac_toe/) | HTML, CSS/SCSS, JavaScript | [code](https://github.com/Elena-MyOne/tic_tac_toe) |
-| [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/) | HTML, CSS/SCSS, JavaScript, Webpack |   |
-| [Calculator](https://github.com/Elena-MyOne/calculator) | HTML, CSS/SCSS, TypeScript |   |
-| [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/) |HTML, CSS/SCSS, JavaScript |   |
+| [Sudoku](https://elena-myone.github.io/sudoku/random-game/) | JavaScript, HTML, CSS/SCSS | [code](https://github.com/Elena-MyOne/sudoku/tree/random-game) |
+| [Audio Player](https://elena-myone.github.io/audio-player/audio-player/) | JavaScript, HTML, CSS | [code](https://github.com/Elena-MyOne/audio-player/tree/main/audio-player) |
+| [Tic Tac Toe](https://elena-myone.github.io/tic_tac_toe/) | JavaScript, HTML, CSS/SCSS | [code](https://github.com/Elena-MyOne/tic_tac_toe) |
+| [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/) | JavaScript, HTML, CSS/SCSS, Webpack |   |
+| [Calculator](https://github.com/Elena-MyOne/calculator) | TypeScript, HTML, CSS/SCSS  |   |
+| [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/) | JavaScript, HTML, CSS/SCSS |   |
 | [Online Zoo](https://elena-myone.github.io/online-zoo/dist/) | JavaScript, HTML, CSS/SCSS, Webpack | [code](https://github.com/Elena-MyOne/online-zoo)  |
 | [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/) | JavaScript, HTML, CSS/SCSS | [code](https://github.com/Elena-MyOne/online-zoo)  |
 

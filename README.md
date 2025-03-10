@@ -46,6 +46,7 @@
 | [ImageGallery](https://imagegallery-a0f41.web.app/)   | React, TypeScript, JavaScript, Bootstrap, Firebase, CSS          | [code](https://github.com/Elena-MyOne/image-gallery) |
 | [Sudoku](https://elena-myone.github.io/sudoku/random-game/) | JavaScript, HTML, CSS/SCSS | [code](https://github.com/Elena-MyOne/sudoku/tree/random-game) |
 | [Audio Player](https://elena-myone.github.io/audio-player/audio-player/) | JavaScript, HTML, CSS | [code](https://github.com/Elena-MyOne/audio-player/tree/main/audio-player) |
+| [Image Gallery Unsplash API](https://elena-myone.github.io/image-gallery-js/) | JavaScript, HTML, CSS | [code](https://github.com/Elena-MyOne/image-gallery-js) |
 | [Tic Tac Toe](https://elena-myone.github.io/tic_tac_toe/) | JavaScript, HTML, CSS/SCSS | [code](https://github.com/Elena-MyOne/tic_tac_toe) |
 | [Puzzle 15](https://rolling-scopes-school.github.io/elena-myone-JSFE2022Q3/puzzle-15/dist/) | JavaScript, HTML, CSS/SCSS, Webpack |   |
 | [Calculator](https://github.com/Elena-MyOne/calculator) | TypeScript, HTML, CSS/SCSS  |   |

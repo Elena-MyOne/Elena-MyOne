@@ -52,7 +52,7 @@
 | [Calculator](https://github.com/Elena-MyOne/calculator) | TypeScript, HTML, CSS/SCSS  |   |
 | [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/) | JavaScript, HTML, CSS/SCSS |   |
 | [Online Zoo](https://elena-myone.github.io/online-zoo/dist/) | JavaScript, HTML, CSS/SCSS, Webpack | [code](https://github.com/Elena-MyOne/online-zoo)  |
-| [Library](https://elena-myone.github.io/library-js/library/dist/) | JavaScript, HTML, CSS/SCSS, Vite | [code](https://github.com/Elena-MyOne/library-js)  |
+| [Library](https://elena-myone.github.io/library-js/library/dist/) | JavaScript, HTML, CSS/SCSS, Vite | [code](https://github.com/Elena-MyOne/library-js/tree/library/library)  |
 | [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/) | JavaScript, HTML, CSS/SCSS | [code](https://github.com/Elena-MyOne/online-zoo)  |
 
 

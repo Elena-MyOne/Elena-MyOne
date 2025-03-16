@@ -53,7 +53,7 @@
 | [Calculator](https://elena-myone.github.io/calculator/dist/) | TypeScript, HTML, CSS/SCSS  | [code](https://github.com/Elena-MyOne/calculator)  |
 | [Eldritch Horror](https://elena-myone.github.io/codejam-eldritch/my-app/dist/) | JavaScript, HTML, CSS/SCSS |  [code](https://github.com/Elena-MyOne/codejam-eldritch/tree/gh-pages) |
 | [Online Zoo](https://elena-myone.github.io/online-zoo/dist/) | JavaScript, HTML, CSS/SCSS, Webpack | [code](https://github.com/Elena-MyOne/online-zoo)  |
-| [Christmas-shop](https://rolling-scopes-school.github.io/elena-myone-JSFE2024Q4/christmas-shop/) | JavaScript, HTML, CSS/SCSS | [code](https://github.com/Elena-MyOne/christmas-shop/tree/christmas-shop/christmas-shop)  |
+| [Christmas-shop](https://elena-myone.github.io/christmas-shop/christmas-shop/) | JavaScript, HTML, CSS/SCSS | [code](https://github.com/Elena-MyOne/christmas-shop/tree/christmas-shop/christmas-shop)  |
 | [Library](https://elena-myone.github.io/library-ts/library/dist/) | JavaScript, HTML, CSS/SCSS, Vite | [code](https://github.com/Elena-MyOne/library-ts)  |
 | [Travel](https://rolling-scopes-school.github.io/elena-myone-JSFEPRESCHOOL2022Q2/travel/) | JavaScript, HTML, CSS/SCSS | [code](https://github.com/Elena-MyOne/online-zoo)  |
 | [Mini library](https://elena-myone.github.io/library/) | JavaScript, HTML, CSS | [code](https://github.com/Elena-MyOne/library)  |
